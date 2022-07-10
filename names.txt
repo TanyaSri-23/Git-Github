@@ -1,0 +1,4 @@
+Tanya Srivastava
+Learning Git and Github today by Community Classroom
+Use of Git is to mainly maintain a history of a particular project so as to know when a change was done by whom and what was the change
+
